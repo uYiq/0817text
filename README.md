@@ -1,6 +1,6 @@
 # 0817
 
-## Project setup
+## Project setup    依赖安装
 ```
 npm install
 ```
